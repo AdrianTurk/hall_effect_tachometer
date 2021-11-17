@@ -3,8 +3,8 @@ Tacómetro genérico de reemplazo para piezas discontinuadas.
 
 ---
 ### FUNCIONAMIENTO:
-><br>&nbsp;Mide velocidad de cinta transportadora, por medio de un sensor de efecto hall, mostrando el tiempo de coccion en un display de 7 segmentos de 4 digitos.<br><br>
->&nbsp; Tambien controla el apagado de un horno en base a un tiempo de retrazo y una entrada N/A para reducir el estres termico.<br><br>
+><br>&nbsp; Mide velocidad de cinta transportadora, por medio de un sensor de efecto hall, mostrando el tiempo de cocción en un display de 7 segmentos de 4 dígitos.<br><br>
+>&nbsp; También controla el apagado de un horno en base a un tiempo de retraso y una entrada N/A para reducir el estrés térmico.<br><br>
 
 <br>
 
@@ -53,4 +53,4 @@ GND| GND | GND | GND |.|GND
 ### CONSTANTES DE CONFIGURACIÓN:
 ---
 
-* FACTOR_ADJ: &nbsp; Establece el factor de ajuste del tiempo de coccion, a mayor factor, la velocidad mostrada se incrementa. Depende de las caracteristicas fisicas de la cinta
+* FACTOR_ADJ: <br> &nbsp; Establece el factor de ajuste del tiempo de cocción, a mayor factor, la velocidad mostrada se incrementa. Depende de las características físicas de la cinta
